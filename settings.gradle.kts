@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Dependency"
-include(":module1")
+include(":User")

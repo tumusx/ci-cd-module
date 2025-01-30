@@ -1,4 +1,4 @@
 /local.properties
 .gradle
 /module1/build
-.idea
+/.idea
